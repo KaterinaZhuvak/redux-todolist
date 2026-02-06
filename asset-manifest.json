@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KaterinaZhuvak/redux-todolist/static/css/main.11bfe26d.css",
+    "main.js": "/KaterinaZhuvak/redux-todolist/static/js/main.915b2600.js",
+    "index.html": "/KaterinaZhuvak/redux-todolist/index.html",
+    "main.11bfe26d.css.map": "/KaterinaZhuvak/redux-todolist/static/css/main.11bfe26d.css.map",
+    "main.915b2600.js.map": "/KaterinaZhuvak/redux-todolist/static/js/main.915b2600.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11bfe26d.css",
+    "static/js/main.915b2600.js"
+  ]
+}
